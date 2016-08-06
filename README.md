@@ -1,2 +1,2 @@
 # R00tz-2016
-This is code samples for the R00tz badge
+This repository is the code samples used on the R00tz badge
